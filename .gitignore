@@ -1,0 +1,8 @@
+# Carpetas bin y debug 
+bin/ 
+debug/ 
+
+# Archivos del proyecto 
+SLNGenerator.Win.csproj 
+SLNGenerator.Win.suo 
+*.suo
