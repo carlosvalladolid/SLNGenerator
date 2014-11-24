@@ -1,0 +1,8 @@
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.MainForm.resources
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.Properties.Resources.resources
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.csproj.GenerateResource.Cache
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\bin\Debug\Generator.Win.exe
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\bin\Debug\Generator.Win.pdb
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.exe
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.pdb
+E:\Trabajo\Proyectos\Internos\Iydsa\Generador\Generator.Win\obj\x86\Debug\Generator.Win.csprojResolveAssemblyReference.cache
